@@ -43,9 +43,9 @@ Perform detailed **Exploratory Data Analysis (EDA)** on the Titanic dataset usin
 ## 📂 Folder Structure
 
 📁 titanic-eda-visualization
-┣ 📜 Day2_EDA_Titanic.ipynb ← Jupyter Notebook with all analysis
-┣ 📜 train.csv ← Titanic dataset (Kaggle)
-┗ 📜 README.md ← This file
+ ┣ 📜 Day2_EDA_Titanic.ipynb ← Jupyter Notebook with all analysis
+ ┣ 📜 train.csv ← Titanic dataset (Kaggle)
+ ┗ 📜 README.md ← This file
 
 
 ---
